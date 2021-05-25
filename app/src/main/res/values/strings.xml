@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShoeStore</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome_message">Welcome message</string>
+    <string name="instructions_title_text">Instructions</string>
+    <string name="instructions_text">1. Instruction 1\n2.Instruction 2\n3.Instruction 3</string>
+    <string name="start_button">Start</string>
+    <string name="instructions_button">Instructions</string>
+    <string name="shoe_list_button">Shoe List</string>
+    <string name="add_shoe_button">Add Shoe</string>
+    <string name="shoe_list_title">Shoe List</string>
+</resources>
